@@ -26,6 +26,8 @@
 - 🌱 **EcoFEUP** – Sustainability rewards platform for FEUP students.
 - 🌄 **Computer Graphics** – Procedural terrain generation with WebGL and GLSL shaders.
 - 🌐 **Art Space** – A responsive website built with HTML, CSS and JavaScript.
+- 🤖 **Water Sort Game** – Water Sort Puzzle game developed in Python with Pygame, featuring AI solvers using BFS, DFS, UCS, Iterative Deepening, Greedy, A*, and Weighted A* search algorithms.
+
 
 ###
 
