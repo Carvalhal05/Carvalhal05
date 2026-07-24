@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">Hello World! 👋</h1>
+<h1 data-importer="text" align="left">Hi there, I'm Ana! 👋</h1>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<p data-importer="text" align="left">👋 Hi, I'm Ana Carolina Copolecchia Carvalhal.<br>🎓 Computer Engineering student at FEUP (Faculty of Engineering of the University of Porto).<br>💻 Passionate about Software Engineering, Python, and Web Development.<br>🚀 Always eager to learn new technologies and take on new challenges.</p>
+<p data-importer="text" align="left">👋 Hi, I'm Ana Carolina Copolecchia Carvalhal.<br>🎓 Computer Engineering student at FEUP (Faculty of Engineering of the University of Porto).<br>💻 Passionate about Software Engineering and Web Development.<br>🚀 Always eager to learn new technologies and take on new challenges.<br> 🧩 I love solving logic and puzzle games.<br>🎵 I'm a big music enthusiast.</p>
 
 ###
 
-<h2 data-importer="text" align="left">I code with</h2>
+<h2 data-importer="text" align="left">Tech Stack</h2>
 
 ###
 
@@ -20,8 +20,36 @@
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+## 🚀 Featured Projects
+
+- 📅 **University Exam Scheduler** – Optimization model using IBM CPLEX and Python.
+- 🌱 **EcoFEUP** – Sustainability rewards platform for FEUP students.
+- 🌄 **Computer Graphics** – Procedural terrain generation with WebGL and GLSL shaders.
+- 🌐 **Personal Website** – A responsive website built with HTML, CSS and JavaScript.
 
 ###
+
+## 🌱 Currently Learning
+
+- 🐘 Reviewing PHP
+- 🟨 Reviewing JavaScript
+- 🧩 Reviewing Data Structures and Algorithms
+- 🐍 Learning Object-Oriented Programming (OOP) in Python
+
+###
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ana-carolina-copolecchia-carvalhal-49334b398" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anaccarvalhal@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+</p>
+
+###
+
+
+
