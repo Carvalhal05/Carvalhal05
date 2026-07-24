@@ -25,7 +25,7 @@
 - 🐍 **LDTS Snake Game** – Snake game variation in Java featuring dynamic mechanics, difficulty levels, and audio.
 - 🌱 **EcoFEUP** – Sustainability rewards platform for FEUP students.
 - 🌄 **Computer Graphics** – Procedural terrain generation with WebGL and GLSL shaders.
-- 🌐 **Personal Website** – A responsive website built with HTML, CSS and JavaScript.
+- 🌐 **Art Space** – A responsive website built with HTML, CSS and JavaScript.
 
 ###
 
